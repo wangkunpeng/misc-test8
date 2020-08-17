@@ -1,4 +1,4 @@
-package com.test;
+package com.wkp.pbtest;
 
 import com.google.protobuf.InvalidProtocolBufferException;
 

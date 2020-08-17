@@ -1,0 +1,12 @@
+{
+  "res_1": [
+    {
+      "task_check_id": "1",
+      "paramName": "1",
+      "originValue": "1",
+      "value": "1",
+      "diffType": 1,
+      "compareResult": false
+    }
+  ]
+}

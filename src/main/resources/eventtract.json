@@ -1,0 +1,198 @@
+{
+  "originAdLog": "{\n  \"clientAdLog\": {\n    \"actionType\": \"AD_DETAIL_PAGE_CLOSED\",\n    \"creativeId\": \"347755398\",\n    \"chargeInfo\": \"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\\u003d\",\n    \"sourceType\": \"DSP\",\n    \"conversionType\": \"APP_DOWNLOAD\",\n    \"photoId\": \"33442670211\",\n    \"authorId\": \"1331226163\",\n    \"llsid\": \"2000107120852496594\",\n    \"expTag\": \"1_u/2000092066595921985_p0\",\n    \"imei\": \"863252038644863\",\n    \"androidId\": \"ea7e3ccd23677c03\",\n    \"mac\": \"80:AD:16:78:64:1C\",\n    \"oaid\": \"7e82c3dfece3a74c\",\n    \"sAuthorId\": \"1881027273\",\n    \"clientExtData\": \"{\\\"duration\\\":9600,\\\"played_duration\\\":29822,\\\"downloaded\\\":false,\\\"prepare_duration\\\":49,\\\"enter_time\\\":1597375297561,\\\"leave_time\\\":1597375338173,\\\"buffer_duration\\\":0,\\\"comment_pause_duration\\\":9963,\\\"other_pause_duration\\\":720,\\\"comment_stay_duration\\\":15917,\\\"played_loop_count\\\":0}\",\n    \"clientParams\": {\n    },\n    \"adPosition\": \"VIDEO_END\",\n    \"universeClientAdLog\": {\n      \"pageId\": \"10001\",\n      \"subPageId\": \"10001001\",\n      \"gridUnitId\": \"1\",\n      \"type\": 20,\n      \"extField\": \"{\\\"browseType\\\":\\\"1\\\"}\",\n      \"appId\": \"kuaishou\",\n      \"adPlacePosition\": 6,\n      \"enterAction\": \"1\"\n    },\n    \"clientTimestamp\": \"1597375338307\"\n  },\n  \"visitorId\": \"1329727655\",\n  \"timestamp\": \"1597375340847\",\n  \"deviceId\": \"ANDROID_ea7e3ccd23677c03\",\n  \"ip\": \"36.157.2.241\",\n  \"country\": \"CHN\",\n  \"exploreLocale\": \"zh_CN\",\n  \"locale\": \"zh_CN\",\n  \"appVer\": \"7.7.10.15712\",\n  \"photoModel\": \"Xiaomi(Redmi 5)\",\n  \"network\": \"WIFI\",\n  \"clientId\": 2\n}",
+  "newAdLog": "{\n  \"clientAdLog\": {\n    \"actionType\": \"AD_DETAIL_PAGE_CLOSED\",\n    \"creativeId\": \"347755398\",\n    \"chargeInfo\": \"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\\u003d\",\n    \"sourceType\": \"DSP\",\n    \"conversionType\": \"APP_DOWNLOAD\",\n    \"photoId\": \"33442670211\",\n    \"authorId\": \"1331226163\",\n    \"llsid\": \"2000107120852496594\",\n    \"expTag\": \"1_u/2000092066595921985_p0\",\n    \"imei\": \"863252038644863\",\n    \"androidId\": \"ea7e3ccd23677c03\",\n    \"mac\": \"80:AD:16:78:64:1C\",\n    \"oaid\": \"7e82c3dfece3a74c\",\n    \"sAuthorId\": \"1881027273\",\n    \"clientExtData\": \"{\\\"duration\\\":9600,\\\"played_duration\\\":29822,\\\"downloaded\\\":false,\\\"prepare_duration\\\":49,\\\"enter_time\\\":1597375297561,\\\"leave_time\\\":1597375338173,\\\"buffer_duration\\\":0,\\\"comment_pause_duration\\\":9963,\\\"other_pause_duration\\\":720,\\\"comment_stay_duration\\\":15917,\\\"played_loop_count\\\":0}\",\n    \"clientParams\": {\n    },\n    \"adPosition\": \"VIDEO_END\",\n    \"universeClientAdLog\": {\n      \"pageId\": \"10001\",\n      \"subPageId\": \"10001001\",\n      \"gridUnitId\": \"1\",\n      \"type\": 20,\n      \"extField\": \"{\\\"browseType\\\":\\\"1\\\"}\",\n      \"appId\": \"kuaishou\",\n      \"adPlacePosition\": 6,\n      \"enterAction\": \"1\"\n    },\n    \"clientTimestamp\": \"1597375338307\"\n  },\n  \"visitorId\": \"1329727655\",\n  \"timestamp\": \"1597375340847\",\n  \"deviceId\": \"ANDROID_ea7e3ccd23677c03\",\n  \"ip\": \"36.157.2.241\",\n  \"country\": \"CHN\",\n  \"exploreLocale\": \"zh_CN\",\n  \"locale\": \"zh_CN\",\n  \"appVer\": \"7.7.10.15712\",\n  \"photoModel\": \"Xiaomi(Redmi 5)\",\n  \"network\": \"WIFI\",\n  \"clientId\": 2\n}",
+  "compareResult": {
+    "": [
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.action_type",
+        "originValue": "AD_DETAIL_PAGE_CLOSED",
+        "value": "AD_DETAIL_PAGE_CLOSED",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.creative_id",
+        "originValue": "347755398",
+        "value": "347755398",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.charge_info",
+        "originValue": "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",
+        "value": "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",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.source_type",
+        "originValue": "DSP",
+        "value": "DSP",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.conversion_type",
+        "originValue": "APP_DOWNLOAD",
+        "value": "APP_DOWNLOAD",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.photo_id",
+        "originValue": "33442670211",
+        "value": "33442670211",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.author_id",
+        "originValue": "1331226163",
+        "value": "1331226163",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.llsid",
+        "originValue": "1000000000000000001",
+        "value": "2000107120852496594",
+        "diffType": 0,
+        "compareResult": false,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.exp_tag",
+        "originValue": "1_u/2000092066595921985_p0",
+        "value": "1_u/2000092066595921985_p0",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.android_id",
+        "originValue": "ea7e3ccd23677c03",
+        "value": "ea7e3ccd23677c03",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.mac",
+        "originValue": "80:AD:16:78:64:1C",
+        "value": "80:AD:16:78:64:1C",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.oaid",
+        "originValue": "7e82c3dfece3a74c",
+        "value": "7e82c3dfece3a74c",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.page_id",
+        "originValue": "10001",
+        "value": "10001",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.sub_page_id",
+        "originValue": "10001001",
+        "value": "10001001",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.grid_unit_id",
+        "originValue": "1",
+        "value": "1",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.type",
+        "originValue": "20",
+        "value": "20",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.ext_field",
+        "originValue": "{\"browseType\":\"1\"}",
+        "value": "{\"browseType\":\"1\"}",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.app_id",
+        "originValue": "kuaishou",
+        "value": "kuaishou",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.ad_place_position",
+        "originValue": "6",
+        "value": "6",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.UniverseClientAdLog.enter_action",
+        "originValue": "1",
+        "value": "1",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      },
+      {
+        "task_check_id": "",
+        "paramName": "kuaishou.ad.ClientAdLog.client_timestamp",
+        "originValue": "1597375338307",
+        "value": "1597375338307",
+        "diffType": 0,
+        "compareResult": true,
+        "create_time": 1597386215616
+      }
+    ]
+  },
+  "caseInfo": "{\"id\":\"100869\",\"ad_position\":\"VIDEO_END\",\"bid_type\":null,\"account_id\":null,\"price\":null,\"campaign_id\":null,\"unit_id\":null,\"is_from_callback_api\":null,\"action_type\":\"AD_DETAIL_PAGE_CLOSED\",\"creative_id\":\"347755398\",\"charge_info\":\"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\",\"source_type\":\"DSP\",\"conversion_type\":\"APP_DOWNLOAD\",\"photo_id\":\"33442670211\",\"author_id\":\"1331226163\",\"llsid\":\"1000000000000000001\",\"exp_tag\":\"1_u/2000092066595921985_p0\",\"android_id\":\"ea7e3ccd23677c03\",\"mac\":\"80:AD:16:78:64:1C\",\"oaid\":\"7e82c3dfece3a74c\",\"client_params\":\"{\\n}\",\"cover_id\":\"0\",\"display_type\":\"UNKNOWN_DISPLAY_TYPE\",\"universe_client_ad_log\":\"{\\n  \\\"pageId\\\": \\\"10001\\\",\\n  \\\"subPageId\\\": \\\"10001001\\\",\\n  \\\"gridUnitId\\\": \\\"1\\\",\\n  \\\"type\\\": 20,\\n  \\\"extField\\\": \\\"{\\\\\\\"browseType\\\\\\\":\\\\\\\"1\\\\\\\"}\\\",\\n  \\\"appId\\\": \\\"kuaishou\\\",\\n  \\\"adPlacePosition\\\": 6,\\n  \\\"enterAction\\\": \\\"1\\\"\\n}\",\"client_timestamp\":\"1597375338307\",\"task_check_id\":\"\",\"origin_ad_log\":\"{\\n  \\\"clientAdLog\\\": {\\n    \\\"actionType\\\": \\\"AD_DETAIL_PAGE_CLOSED\\\",\\n    \\\"creativeId\\\": \\\"347755398\\\",\\n    \\\"chargeInfo\\\": \\\"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\\\\u003d\\\",\\n    \\\"sourceType\\\": \\\"DSP\\\",\\n    \\\"conversionType\\\": \\\"APP_DOWNLOAD\\\",\\n    \\\"photoId\\\": \\\"33442670211\\\",\\n    \\\"authorId\\\": \\\"1331226163\\\",\\n    \\\"llsid\\\": \\\"2000107120852496594\\\",\\n    \\\"expTag\\\": \\\"1_u/2000092066595921985_p0\\\",\\n    \\\"imei\\\": \\\"863252038644863\\\",\\n    \\\"androidId\\\": \\\"ea7e3ccd23677c03\\\",\\n    \\\"mac\\\": \\\"80:AD:16:78:64:1C\\\",\\n    \\\"oaid\\\": \\\"7e82c3dfece3a74c\\\",\\n    \\\"sAuthorId\\\": \\\"1881027273\\\",\\n    \\\"clientExtData\\\": \\\"{\\\\\\\"duration\\\\\\\":9600,\\\\\\\"played_duration\\\\\\\":29822,\\\\\\\"downloaded\\\\\\\":false,\\\\\\\"prepare_duration\\\\\\\":49,\\\\\\\"enter_time\\\\\\\":1597375297561,\\\\\\\"leave_time\\\\\\\":1597375338173,\\\\\\\"buffer_duration\\\\\\\":0,\\\\\\\"comment_pause_duration\\\\\\\":9963,\\\\\\\"other_pause_duration\\\\\\\":720,\\\\\\\"comment_stay_duration\\\\\\\":15917,\\\\\\\"played_loop_count\\\\\\\":0}\\\",\\n    \\\"clientParams\\\": {\\n    },\\n    \\\"adPosition\\\": \\\"VIDEO_END\\\",\\n    \\\"universeClientAdLog\\\": {\\n      \\\"pageId\\\": \\\"10001\\\",\\n      \\\"subPageId\\\": \\\"10001001\\\",\\n      \\\"gridUnitId\\\": \\\"1\\\",\\n      \\\"type\\\": 20,\\n      \\\"extField\\\": \\\"{\\\\\\\"browseType\\\\\\\":\\\\\\\"1\\\\\\\"}\\\",\\n      \\\"appId\\\": \\\"kuaishou\\\",\\n      \\\"adPlacePosition\\\": 6,\\n      \\\"enterAction\\\": \\\"1\\\"\\n    },\\n    \\\"clientTimestamp\\\": \\\"1597375338307\\\"\\n  },\\n  \\\"visitorId\\\": \\\"1329727655\\\",\\n  \\\"timestamp\\\": \\\"1597375340847\\\",\\n  \\\"deviceId\\\": \\\"ANDROID_ea7e3ccd23677c03\\\",\\n  \\\"ip\\\": \\\"36.157.2.241\\\",\\n  \\\"country\\\": \\\"CHN\\\",\\n  \\\"exploreLocale\\\": \\\"zh_CN\\\",\\n  \\\"locale\\\": \\\"zh_CN\\\",\\n  \\\"appVer\\\": \\\"7.7.10.15712\\\",\\n  \\\"photoModel\\\": \\\"Xiaomi(Redmi 5)\\\",\\n  \\\"network\\\": \\\"WIFI\\\",\\n  \\\"clientId\\\": 2\\n}\",\"new_ad_log\":\"{\\\\n  \\\\\\\"clientAdLog\\\\\\\": {\\\\n    \\\\\\\"actionType\\\\\\\": \\\\\\\"AD_DETAIL_PAGE_CLOSED\\\\\\\",\\\\n    \\\\\\\"creativeId\\\\\\\": \\\\\\\"347755398\\\\\\\",\\\\n    \\\\\\\"chargeInfo\\\\\\\": \\\\\\\"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\\\\\\\\u003d\\\\\\\",\\\\n    \\\\\\\"sourceType\\\\\\\": \\\\\\\"DSP\\\\\\\",\\\\n    \\\\\\\"conversionType\\\\\\\": \\\\\\\"APP_DOWNLOAD\\\\\\\",\\\\n    \\\\\\\"photoId\\\\\\\": \\\\\\\"33442670211\\\\\\\",\\\\n    \\\\\\\"authorId\\\\\\\": \\\\\\\"1331226163\\\\\\\",\\\\n    \\\\\\\"llsid\\\\\\\": \\\\\\\"2000107120852496594\\\\\\\",\\\\n    \\\\\\\"expTag\\\\\\\": \\\\\\\"1_u/2000092066595921985_p0\\\\\\\",\\\\n    \\\\\\\"imei\\\\\\\": \\\\\\\"863252038644863\\\\\\\",\\\\n    \\\\\\\"androidId\\\\\\\": \\\\\\\"ea7e3ccd23677c03\\\\\\\",\\\\n    \\\\\\\"mac\\\\\\\": \\\\\\\"80:AD:16:78:64:1C\\\\\\\",\\\\n    \\\\\\\"oaid\\\\\\\": \\\\\\\"7e82c3dfece3a74c\\\\\\\",\\\\n    \\\\\\\"sAuthorId\\\\\\\": \\\\\\\"1881027273\\\\\\\",\\\\n    \\\\\\\"clientExtData\\\\\\\": \\\\\\\"{\\\\\\\\\\\\\\\"duration\\\\\\\\\\\\\\\":9600,\\\\\\\\\\\\\\\"played_duration\\\\\\\\\\\\\\\":29822,\\\\\\\\\\\\\\\"downloaded\\\\\\\\\\\\\\\":false,\\\\\\\\\\\\\\\"prepare_duration\\\\\\\\\\\\\\\":49,\\\\\\\\\\\\\\\"enter_time\\\\\\\\\\\\\\\":1597375297561,\\\\\\\\\\\\\\\"leave_time\\\\\\\\\\\\\\\":1597375338173,\\\\\\\\\\\\\\\"buffer_duration\\\\\\\\\\\\\\\":0,\\\\\\\\\\\\\\\"comment_pause_duration\\\\\\\\\\\\\\\":9963,\\\\\\\\\\\\\\\"other_pause_duration\\\\\\\\\\\\\\\":720,\\\\\\\\\\\\\\\"comment_stay_duration\\\\\\\\\\\\\\\":15917,\\\\\\\\\\\\\\\"played_loop_count\\\\\\\\\\\\\\\":0}\\\\\\\",\\\\n    \\\\\\\"clientParams\\\\\\\": {\\\\n    },\\\\n    \\\\\\\"adPosition\\\\\\\": \\\\\\\"VIDEO_END\\\\\\\",\\\\n    \\\\\\\"universeClientAdLog\\\\\\\": {\\\\n      \\\\\\\"pageId\\\\\\\": \\\\\\\"10001\\\\\\\",\\\\n      \\\\\\\"subPageId\\\\\\\": \\\\\\\"10001001\\\\\\\",\\\\n      \\\\\\\"gridUnitId\\\\\\\": \\\\\\\"1\\\\\\\",\\\\n      \\\\\\\"type\\\\\\\": 20,\\\\n      \\\\\\\"extField\\\\\\\": \\\\\\\"{\\\\\\\\\\\\\\\"browseType\\\\\\\\\\\\\\\":\\\\\\\\\\\\\\\"1\\\\\\\\\\\\\\\"}\\\\\\\",\\\\n      \\\\\\\"appId\\\\\\\": \\\\\\\"kuaishou\\\\\\\",\\\\n      \\\\\\\"adPlacePosition\\\\\\\": 6,\\\\n      \\\\\\\"enterAction\\\\\\\": \\\\\\\"1\\\\\\\"\\\\n    },\\\\n    \\\\\\\"clientTimestamp\\\\\\\": \\\\\\\"1597375338307\\\\\\\"\\\\n  },\\\\n  \\\\\\\"visitorId\\\\\\\": \\\\\\\"1329727655\\\\\\\",\\\\n  \\\\\\\"timestamp\\\\\\\": \\\\\\\"1597375340847\\\\\\\",\\\\n  \\\\\\\"deviceId\\\\\\\": \\\\\\\"ANDROID_ea7e3ccd23677c03\\\\\\\",\\\\n  \\\\\\\"ip\\\\\\\": \\\\\\\"36.157.2.241\\\\\\\",\\\\n  \\\\\\\"country\\\\\\\": \\\\\\\"CHN\\\\\\\",\\\\n  \\\\\\\"exploreLocale\\\\\\\": \\\\\\\"zh_CN\\\\\\\",\\\\n  \\\\\\\"locale\\\\\\\": \\\\\\\"zh_CN\\\\\\\",\\\\n  \\\\\\\"appVer\\\\\\\": \\\\\\\"7.7.10.15712\\\\\\\",\\\\n  \\\\\\\"photoModel\\\\\\\": \\\\\\\"Xiaomi(Redmi 5)\\\\\\\",\\\\n  \\\\\\\"network\\\\\\\": \\\\\\\"WIFI\\\\\\\",\\\\n  \\\\\\\"clientId\\\\\\\": 2\\\\n}\",\"scenes\":\"kuaishou.ad.ClientAdLog.action_type&^_^&AD_DETAIL_PAGE_CLOSED,kuaishou.ad.ClientAdLog.source_type&^_^&DSP,kuaishou.ad.ClientAdLog.conversion_type&^_^&APP_DOWNLOAD,kuaishou.ad.ClientAdLog.ad_position&^_^&VIDEO_END\",\"submit_time\":0,\"create_time\":0,\"case_type\":0}"
+}

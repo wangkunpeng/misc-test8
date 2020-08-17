@@ -1,20 +1,15 @@
 package com.wkp.gsontest;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonParser;
+import com.google.gson.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
+import org.springframework.util.StringUtils;
 
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
-public class Test3 {
+public class Test4 {
 
     @Data
     @AllArgsConstructor
@@ -30,37 +25,23 @@ public class Test3 {
     }
 
     public static void main(String[] args) {
+        Random random = new Random();
 
-        Map result = new HashMap();
-
-        Map<String, List<CompareResult>> map = new HashMap();
-        List<CompareResult> resList = new LinkedList<CompareResult>();
-        CompareResult res1 = new CompareResult("1", "1", "1", "1", 1, false);
-        resList.add(res1);
-        CompareResult res2 = new CompareResult("2", "2", "2", "2", 2, false);
-        resList.add(res2);
-        map.put("res_1", resList);
-
-        result.put("caseInfo", "{}");
-        result.put("compareResult", map);
+        for (int index = 0; index < 200; index++) {
+            //System.out.println(random.nextInt(10));
+            System.out.println(random.nextInt(100));
+        }
 
 
-        Gson gson = new GsonBuilder().create();
-        String jsonStr = gson.toJson(result);
-        System.out.println(jsonStr);
+        Test4 test4 = new Test4();
+        JsonObject result = new JsonObject();
+        result.addProperty("field1", "123");
+        result.addProperty("field1", "123");
+        System.out.println(result);
 
-
-        JsonParser parser = new JsonParser();
-        JsonElement jsonElement = parser.parse(jsonStr);
-
-        System.out.println(jsonElement.getAsJsonObject().get("caseInfo").getAsJsonPrimitive());
-        System.out.println(parser.parse(jsonElement.getAsJsonObject().get("caseInfo").getAsString()));
-        System.out.println(jsonElement.getAsJsonObject().get("compareResult").getAsJsonObject().get("res_1").getAsJsonArray().get(0));
-
-
-        JsonParser parser1 = new JsonParser();
-        JsonElement element2 = parser1.parse(jsonStr);
-        System.out.println(element2);
-
+        result.addProperty("field1", "456");
+        //JsonElement element =  new JSo
+        //result.add
+        System.out.println(result);
     }
 }

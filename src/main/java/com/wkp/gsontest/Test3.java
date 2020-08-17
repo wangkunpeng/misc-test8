@@ -14,7 +14,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class Test2 {
+public class Test3 {
 
     @Data
     @AllArgsConstructor
@@ -41,40 +41,26 @@ public class Test2 {
         resList.add(res2);
         map.put("res_1", resList);
 
-
         result.put("caseInfo", "{}");
         result.put("compareResult", map);
 
+
         Gson gson = new GsonBuilder().create();
         String jsonStr = gson.toJson(result);
-        Map mapObj = gson.fromJson(jsonStr, Map.class);
+        System.out.println(jsonStr);
 
-        Object object = ((List) mapObj.get("res_1")).get(0);
-        System.out.println(object);
-
-        Gson gson1 = new GsonBuilder().create();
-        CompareResult result = gson1.fromJson(object.toString(), CompareResult.class);
-        System.out.println("result " + result);
 
         JsonParser parser = new JsonParser();
-        //System.out.println(((CompareResult) ((List) mapObj.get("res_1")).get(1)).getOriginValue());
-        System.out.println(jsonStr);
+        JsonElement jsonElement = parser.parse(jsonStr);
+
+        System.out.println(jsonElement.getAsJsonObject().get("caseInfo").getAsJsonPrimitive());
+        System.out.println(parser.parse(jsonElement.getAsJsonObject().get("caseInfo").getAsString()));
+        System.out.println(jsonElement.getAsJsonObject().get("compareResult").getAsJsonObject().get("res_1").getAsJsonArray().get(0));
 
 
         JsonParser parser1 = new JsonParser();
         JsonElement element2 = parser1.parse(jsonStr);
         System.out.println(element2);
 
-        System.out.println(element2.getAsJsonObject().get("1"));
-
-        System.out.println(element2.getAsJsonObject().get("1"));
-        System.out.println(element2.getAsJsonObject().get("res_1").getAsJsonArray().get(0).getAsJsonObject().get("task_check_id"));
-        //System.out.println(element2.getAsJsonObject().get("res_1").getAsJsonArray().get(0).ge);
-
-        /***
-         *
-         */
-        // JsonElement element1 = gson.toJsonTree(jsonStr);
-        // System.out.println(element1);
     }
 }

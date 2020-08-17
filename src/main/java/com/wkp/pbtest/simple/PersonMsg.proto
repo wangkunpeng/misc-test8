@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-package com.simple;
+package com.wkp.pbtest.simple;
 
-option java_package = "com.simple";
+option java_package = "com.wkp.pbtest.simple";
 option java_outer_classname = "PersonMsg";
 
 message Person{
