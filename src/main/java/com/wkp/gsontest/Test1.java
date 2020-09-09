@@ -8,8 +8,10 @@ import com.google.gson.JsonParser;
 public class Test1 {
 
     public static void main(String[] args) {
+        long nl = 0;
+        System.out.println(nl);
         Student student = new Student();
-        student.setId(1L);
+        //student.setId(0L);
         student.setName("jike");
 
         Gson gson = new GsonBuilder().create();
@@ -22,7 +24,8 @@ public class Test1 {
         System.out.println(jsonElement.getAsJsonObject());
         //System.out.println(jsonElement.getAsString());
         System.out.println(jsonElement.getAsJsonObject().get("name"));
-        System.out.println(jsonElement.getAsJsonPrimitive());
+        //System.out.println(jsonElement.getAsJsonPrimitive());
+
 
     }
 }
